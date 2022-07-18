@@ -1,0 +1,62 @@
+User Stories and Plan:
+
+Plan: To build a personal portfolio from scratch
+Method: We will build a basic portfolio using HTML,CSS,JS.  Each task will be broken into it's cursory parts and elements. From there further breakdown will occur until we fill in the code. At the end, we will unite all the pieces back together and put them into a DOM. This will be hosted in private and be what we send out. Examples will be drawn from all over my portfolio and filesystem. We will organize them into a list by name and location for further organizational purposes that will simplify how we find them.
+
+Theme: Black, White, Dark Blue, Light Blue
+
+User Stories:
+ x   *Must have a nav-bar.
+ x   *Must have a main-section.
+ x   *Must have a footer
+
+Nav-bar User Stories:
+ x   *Must have Home, About, CV, Skills, Portfolio Links, Contact.
+ x   *Should be centered, spaced evenly (flexbox?)
+ x   *Should be separate color from the body to allow for differentiation
+ x   *Should have separating border.
+
+Main-Section User Stories:
+ x   *Should consist of "Home" section where a brief introduction is made.
+ x   *Should consist of "About" section where several sentences and a picture are included.
+ x   *Should consist of "CV" section where formal CV/Resume is listed.
+ x   *Should consist of "Skills" section where a list of skills is fleshed out.
+ x   *Should consist of "Portfolio Links" section where examples are linked and explained in detail by project.
+ x   *Should consist of a "Contact" section for establishing contact.
+
+#home User Stories:
+    *Should be white font on black page.
+ x    ---changed for radial-gradiant.
+
+ x   *Should have a greeting header
+ x   *Should have a subtitle related to that
+
+#about User Stories:
+ x   *Should have a few sentences about myself
+ x   *Should have an image, positioned right.
+    ---positioned left instead.
+    *Image should be wrapped around text in a stylish way via CSS
+
+#cv User Stories:
+ x   *Should have clear hierarchy of header/text 
+ x   *Should clearly explain Job/Time Period order
+ x   *Brief text about each job, responsibilities carried out, skills required
+
+#skills User Stories:
+    *Should be a ul of skills.
+    ---didn't use ul
+ x   *each skill should be explained in brief.
+    *If possible, use hover or JS effect to make an area on screen show text.
+
+#portfolio User Stories:
+ x   *Should have links in it.
+ x   *Each project should have a bit of information about it.
+ x   *If possible, image or symbol related to it placed next to the link. Card in grid/flexbox can work.
+ x  *Links to Github, FrontendMentor, and other places
+
+#Contact User Stories:
+    *Should have means of contact like email or form.
+    *Should have icons included if possible for each form of contact.
+
+<footer> User Story:
+*Should have contact details and "made by Gershon Tepper"
