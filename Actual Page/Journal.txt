@@ -21,5 +21,13 @@ The main page(#home) has floating text around the dark spot. I staggered and gro
 
 The #about page has an image and text. I keep it simple.
 
+The #cv page uses 2 tables, placed inline-block to be sideways. They still need styling but the information has been laid out according to what I felt was a good way to organize a lot of info.
+
+The #skills page has a bit of a sloppy layout. I used h1's and p's for it. In the plan I was meant to use ul/li. In both cases I remain unfulfilled with it and want to use CSS to change it up a bit.
+
+The #portfolio page has 10 cards laid out side to side in flexbox. For whatever reason they won't space evenly nor pad/margin. Not sure why.  I want to ultimately separate them.
+
+Ideally I'd also spread them out in more than 1 row. I'm considering what card size would work for horizontal spacing while also taking up more of the page and making it feel less..........empty?
+
 JavaScript:
 Other:
