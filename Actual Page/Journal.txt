@@ -29,5 +29,23 @@ The #portfolio page has 10 cards laid out side to side in flexbox. For whatever 
 
 Ideally I'd also spread them out in more than 1 row. I'm considering what card size would work for horizontal spacing while also taking up more of the page and making it feel less..........empty?
 
+#contact is by far the ugliest part of the page. At the very bottom near the footer is a smallish h1 and 2 links(linkedin,email) in ul.  There is a huge space but shrinking vh; to 30vh; does little to bring the page back up.
+
 JavaScript:
+Initial scripting established. 2 test functions and a DOM manipulator function. They're all 3 in buttons and the 2 test just make an alert pop up.  The DOM manipulator doesn't really have much to do with anything except it changes the button's text color to green via getElementById('id').style.color = 'green';   .
+
+I would like to add more JS to the site but I remain unsure what to do with it.  Perhaps I will expand to putting buttons or some sort of initiator so that #skills and #portfolio can switch things up a bit.
+
 Other:
+On the design side I'm mostly happy. Ultimately if I could shrink #contact and make things work I would put "old vs updated" as my subtheme for #portfolio.
+
+Perhaps I'll update the other projects too. Some of them are rather sloppy and lazy but I was just adhering to the protocol to get through the project and get the gold (aka the cert).
+
+--------
+Plans for next time:
+*Adjust #about img to something better looking if possible
+*organize tables in #cv-resume 
+*Make #skills look nicer
+*separate and rearrange the cards in #portfolio
+*Improve #contact
+-----------------
