@@ -1,0 +1,25 @@
+Day 1 Jul18 2022:
+ Today I took another swing at making a page. For probably the 1000th time I made a portfolio page. The end result was pleasing enough to keep, publish on Github, and continue forward with.
+
+Plan: See plan.txt.  Simplest answer is that I need a portfolio page that has some about me, contact, work history,examples,etc.
+I will also attempt to "blog" by journaling the process and the lessons learned along the way.  This too I've done 1000x before.
+
+Structure:The structure today is home/about/CV-Resume/Skills/Portfolio/contact. It has a floating header and a non-floating footer. I copied the basic template from my FreeCodeCamp project because other videos seem to use the same concept.
+
+HTML: Created everything today. Each section has an id. It follows a nav-main sections-footer layout.
+Of note: I included CSS and JS capability to style and script as I go.
+
+CSS: Created everything today. All the initial styling was done on the spot while going through.  I borrowed the technique from FCC Portfolio project to float the nav/divide screen space by vh; . The idea is to have 4 main colors: black, white, --dark-blue,--light-blue where the last 2 are pre-determined colors from Adobe Color.
+
+I used 2 different styles of gradient: linear for nav and radial for body/sections. It gives a nice feel and I'm pleased with it visually.
+
+I picked those colors based on design theory where blue is associated with technology. Typography is basic sans-serif because I was concerned the monospace might shift some stuff in the background.
+
+Each link in nav highlights aquamarine. I felt this was a nice touch that would pleasantly surprise someone while exercising muscle memory on :hover.
+
+The main page(#home) has floating text around the dark spot. I staggered and grouped them in such a way that confers the perspective of the used word "journey". It is indeed a journey, but a light one.
+
+The #about page has an image and text. I keep it simple.
+
+JavaScript:
+Other:
